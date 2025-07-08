@@ -1,4 +1,4 @@
-//Somar dois números
+//Função: somar dois números
 
 const readline = require('readline-sync');
 
